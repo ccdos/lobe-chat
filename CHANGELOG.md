@@ -2,6 +2,56 @@
 
 # Changelog
 
+### [Version 0.147.13](https://github.com/lobehub/lobe-chat/compare/v0.147.12...v0.147.13)
+
+<sup>Released on **2024-04-14**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor the service with browser db invoke.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor the service with browser db invoke, closes [#2038](https://github.com/lobehub/lobe-chat/issues/2038) ([43a2791](https://github.com/lobehub/lobe-chat/commit/43a2791))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.147.12](https://github.com/lobehub/lobe-chat/compare/v0.147.11...v0.147.12)
+
+<sup>Released on **2024-04-14**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Move client db to a new folder.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Move client db to a new folder, closes [#2037](https://github.com/lobehub/lobe-chat/issues/2037) ([ebe65bb](https://github.com/lobehub/lobe-chat/commit/ebe65bb))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.147.11](https://github.com/lobehub/lobe-chat/compare/v0.147.10...v0.147.11)
 
 <sup>Released on **2024-04-14**</sup>
